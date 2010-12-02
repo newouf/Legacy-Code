@@ -1,6 +1,8 @@
 # Pro PHP Refactoring, il concorso
 
-Lo avevamo detto, che avremmo da subito dato qualche succosa novità riguardo a php-school. Infatti abbiamo organizzato un piccolo concorso per chi vuole cimentarsi nel refactoring di un'applicazione per vincere un corso di 4 giorni di refactoring tenuto dagli autori di 'Pro PHP Refactoring'.
+Lo avevamo detto, che avremmo da subito dato qualche succosa novità riguardo a [php-school](http://www.php-school.it "php-school"). 
+Infatti abbiamo organizzato un piccolo concorso per chi vuole cimentarsi nel refactoring di un'applicazione per vincere un [corso di 4 giorni di refactoring](http://www.php-school.it/corso/php-refactoring "PHP Refactoring") 
+tenuto dagli autori di ["Pro PHP Refactoring"](http://apress.com/book/view/9781430227274 "Pro PHP Refactoring").
 
 Il regolamento è molto semplice:
 
